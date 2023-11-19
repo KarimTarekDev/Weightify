@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace KarimTarekDev\Weightify\Tests;
 
 use PHPUnit\Framework\TestCase;
 
