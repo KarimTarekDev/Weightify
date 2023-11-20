@@ -4,6 +4,10 @@
 [![Tests](https://img.shields.io/github/actions/workflow/status/karimtarekdev/weightify/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/karimtarekdev/weightify/actions/workflows/run-tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/karimtarekdev/weightify.svg?style=flat-square)](https://packagist.org/packages/karimtarekdev/weightify)
 
+<p align="center">
+    <img src="https://i.imgur.com/NmcsUTp.png">
+</p>
+
 "Weightify: The Ultimate Weight Conversion Tool" is a streamlined and efficient PHP package for accurate weight conversions. It supports a wide array of units such as Metric tons, Kilograms, Grams, Milligrams, Micrograms, Stones, Pounds, and Ounces, making it an ideal solution for various conversion needs in a user-friendly format.
 
 ## Features
