@@ -38,7 +38,7 @@ composer require karimtarekdev/weightify
 To perform a conversion, use the convert method with the desired units. Here are some examples showcasing the use of different units:
 
 ```php
-$converter = new KarimTarekDev\Weightify();
+$converter = new KarimTarekDev\Weightify\Weightify();
 
 // Convert 2 Metric tons to Pounds
 echo $converter->convert(2, 'metric_ton', 'pound') . " lbs\n";
