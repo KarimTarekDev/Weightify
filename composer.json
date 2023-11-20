@@ -1,6 +1,6 @@
 {
     "name": "karimtarekdev/weightify",
-    "description": "Weightify: The Ultimate Weight Conversion Tool is a versatile and user-friendly PHP package designed for seamless conversion between various weight units. Featuring support for common units like kilograms, pounds, ounces, and grams, this package stands out with its advanced functionalities including auto-detection of input units. ",
+    "description": "Weightify: Efficient PHP Weight Conversion Tool offers accurate conversions for units like Metric tons, Kilograms, Grams, Milligrams, Micrograms, Stones, Pounds, and Ounces, catering to diverse needs with a user-friendly interface.",
     "keywords": [
         "KarimTarekDev",
         "weightify"
