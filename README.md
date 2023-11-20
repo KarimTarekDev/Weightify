@@ -76,7 +76,6 @@ Please review [our security policy](../../security/policy) on how to report secu
 ## Credits
 
 - [Karim Tarek](https://github.com/KarimTarekDev)
-- [All Contributors](../../contributors)
 
 ## License
 
